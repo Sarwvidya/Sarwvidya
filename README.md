@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:FF8906&height=250&section=header&text=Hey,%20I'm%20a%20Java%20Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20ReactJS%20%7C%20Microservices%20%7C%20Cloud&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:FF8906&height=250&section=header&text=Hey,%20I'm%20Sarwvidya%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20ReactJS%20%7C%20Microservices%20%7C%20Cloud&descAlignY=55&descAlign=50"/>
   
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16161A" alt="LinkedIn"/></a>
